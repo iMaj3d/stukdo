@@ -43,3 +43,5 @@ gem 'spring',        group: :development
 
 
 gem "font-awesome-rails"
+
+gem 'simple_form'
